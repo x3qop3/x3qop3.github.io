@@ -1,0 +1,23 @@
+.fon
+{
+position: absolute;
+left:502px;
+top:300px;	
+}
+.sec
+{
+    font-size: 30px;
+    margin: 0px 18px;
+    font-family: 'Kalam', cursive ;
+    display:none;
+    position: absolute;
+    top:10px;
+    left:100px;
+}
+.G_O
+{
+    display: none;
+    position: absolute;
+    top:20px;
+    left:200px;
+}
